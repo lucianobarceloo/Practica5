@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">20sp</dimen>
+    <dimen name="regText">14sp</dimen>
+    <dimen name="buttonText">20sp</dimen>
+    <dimen name="paddingButton">15dp</dimen>
+    <dimen name="radiobutton">60dp</dimen>
+    <dimen name="rbtext">20sp</dimen>
+</resources>
